@@ -1,4 +1,8 @@
 {
   "collection": "@nestjs/schematics",
+<<<<<<< HEAD
   "sourceRoot": "srcreafedfa"
+=======
+  "sourceRoot": "srcrat"
+>>>>>>> branch1
 }
